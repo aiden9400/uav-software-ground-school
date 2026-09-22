@@ -28,6 +28,7 @@ for i in range(len(masks)):
 out = np.concatenate(res, axis=0)
 cv.imshow("Display window", out)
 cv.waitKey(0)
+cv.imwrite("res.png", out)
 """
 cv.namedWindow("Display window")
 for i in range(len(res)):
