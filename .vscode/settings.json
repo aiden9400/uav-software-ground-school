@@ -1,0 +1,6 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showCollapsed": false,
+    "editor.inlineSuggest.enabled": false
+}
